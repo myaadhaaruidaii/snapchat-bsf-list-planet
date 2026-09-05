@@ -6,7 +6,8 @@
   <title>Snapchat BSF List Planet Order & Meaning Explained</title>
   <meta name="description" content="Understand your snapchat bsf list planet rankings. Learn the order of Snapchat planets, what each color means, and how this Snapchat+ feature works.">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://snapchat-planets-order.infinityfree.io/">
+  <meta name="google-site-verification" content="LMn2-J_1wYrwXe0KDUgMxva9bRcM4ESIgrK8HnWs4go" />
+  <link rel="canonical" href="https://snapchat-bsf-list-planet-72808ffa7410.herokuapp.com/">
   
   <!-- Font & basic styling -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
